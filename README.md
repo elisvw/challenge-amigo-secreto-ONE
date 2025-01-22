@@ -20,5 +20,5 @@
     <img src = "assets/prints-projeto/sortear.png" style="max-width: 800px; width: 100% margin-bottom: 15px"/>
     <img src = "assets/prints-projeto/result-sorteio.png" style="max-width: 800px; width: 100% margin-bottom: 15px"/>
     <li style = "margin-bottom: 15px"> Se você clicar no botão de sortear, sem tiver adicionado nenhum nome, um alerta é enviado, dizendo que não foi possível realizar o sorteio, pois não existe nenhum nome. </li>
-    <img src = "assets/prints-projeto/alerta2.png" style="max-width: 800px; width: 100% />
+    <img src = "assets/prints-projeto/alerta2.png" style="max-width: 800px; width: 100%"/>
 </ol>
